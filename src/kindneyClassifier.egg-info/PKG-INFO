@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: kindneyClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/jayavardhankumar/End-to-End-kindey-classification-
+Author: jayavardhankumar
+Project-URL: Bug Tracker, https://github.com/jayavardhankumar/End-to-End-kindey-classification-/issues
+
+# End-to-End-kindey-classification-
+
+
+
+
+#How to run ?
+###steps:
+
+clone the repository 
+
+```bash
+https://github.com/jayavardhankumar/End-to-End-kindey-classification-
+
+```
+### STEP 1 - CREATE A CONDA ENVIRONMENT AFTER OPENING THE REPOSITORY 
+
+```bash
+conda create -n kindney python=3.8 -y 
+```
+```bash
+conda activate kindney
+```
+
+```
+### STEP 02 -INSTALL THE REQUIREMENTS.TXT 
+```
+
+```bash 
+
+
