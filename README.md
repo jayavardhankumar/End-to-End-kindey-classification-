@@ -3,6 +3,7 @@
 
 
 ## work flows 
+```
 1.Update config.yaml
 2.Update secrets.yaml [Optional]
 3.Update params.yaml
@@ -14,6 +15,7 @@
 9.Update the dvc.yaml
 10.app.py
 
+```
 
 
 
